@@ -7,3 +7,5 @@ multiple, régression avec arbre de décision et régression avec forêt aléato
 d'évaluer leur performance et d'optimiser leurs paramètres. Ce projet inclut l'analyse
 des données, la visualisation, l'entraînement de modèles, la validation croisée, et
 l'optimisation des hyperparamètres.
+Vous trouverez le code détaillé (en python) expliquant tous les étapes du projet et les 
+interprètations des résultats
